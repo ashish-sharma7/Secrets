@@ -1,5 +1,5 @@
 {
-  "name": "Secrets",
+  "name": "secrets",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -22,5 +22,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/londonappbrewery/Authentication-Secrets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/londonappbrewery/Authentication-Secrets/issues"
+  },
+  "homepage": "https://github.com/londonappbrewery/Authentication-Secrets#readme"
 }
